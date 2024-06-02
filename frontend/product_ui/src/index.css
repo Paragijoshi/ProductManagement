@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.background {
+  background-image: url('https://static-assets.business.amazon.com/assets/in/24th-jan/705_Website_Blog_Appliances_1450x664.jpg.transform/1450x664/image.jpg');
+  background-size: cover; /* or any other appropriate value */
+  background-position: center; /* or any other appropriate value */
+  background-repeat: no-repeat; /* or any other appropriate value */
+}
+.navbar-brand {
+  margin-right: 30px; /* Adjust the value as needed */
+}
+
+.custom-font {
+  font-family: 'Comic Sans MS', sans-serif; /* Change 'Arial' to your desired font */
+  font-size: 24px; /* Adjust the font size as needed */
+  font-weight: bold; /* Adjust the font weight as needed */
+  color: white; /* Change the font color */
+}
+.custom-font-link {
+  font-family: 'Comic Sans MS', sans-serif; /* Change 'Arial' to your desired font */
+  font-size: 20px; /* Adjust the font size as needed */
+  font-weight:  bold; /* Adjust the font weight as needed */
+  color: white; /* Change the font color */
+}
+
+.table-font{
+  font-family: 'Comic Sans MS', sans-serif; /* Change 'Arial' to your desired font */
+  font-size: 16px; /* Adjust the font size as needed */
+  font-weight: italic; /* Adjust the font weight as needed */
+  color: rgb(20, 16, 16); 
+}
+
+body {
+  background-color: rgb(167, 231, 207); /* Change to your desired background color */
+  background-image: url('https://img.freepik.com/free-photo/workplace-business-modern-male-accessories-laptop-white_155003-1722.jpg'); 
+}
+
